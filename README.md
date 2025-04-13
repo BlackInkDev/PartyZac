@@ -25,7 +25,7 @@
 > **~ PartyZac**
 
 🌟 Thanks for visiting my profile! 🌟
-[![Fork me on GitHub](https://img.shields.io/badge/Fork%20me%20on-GitHub-%23181717?style=for-the-badge&logo=github)](https://github.com/PartyZac/PartyZac/fork)
+
 ## Skills
 
 <p align="center">
