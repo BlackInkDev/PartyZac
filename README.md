@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&lines=Hey+Im+PartyZac!+👋😎)](https://git.io/typing-svg)
 
-Hi, I'm a 15-year-old student who is an expert in programming and modding. I'm currently working with the Godot video game engine and making modifications for some games like Friday Night Funkin.But my specialty is Godot since I have 5 years of experience with him I have also worked as a programmer in some small projects.
+Hi, I'm a 15-year-old student who is an expert in programming and modding. I'm currently working with the Godot game engine and making modifications for some games like Friday Night Funkin.But my specialty is Godot since I have 5 years of experience with him I have also worked as a programmer in some small projects.
 
 ## Skills
 
