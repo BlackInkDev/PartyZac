@@ -1,6 +1,30 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&lines=Hey+Im+PartyZac!+👋😎)](https://git.io/typing-svg)
 
-Hi, I'm a 15-year-old student who is an expert in programming and modding. I'm currently working with the Godot game engine and making modifications for some games like Friday Night Funkin.But my specialty is Godot since I have 5 years of experience with him I have also worked as a programmer in some small projects.
+# 🌟 Hi, I'm PartyZac! 🌟
+
+👋 Welcome to my GitHub profile. I am passionate about:
+
+- 💻 **Web Development**
+- 🚀 **Technology and Innovation**
+- 🎨 **Creative Design**
+- 🎮 **Game Development**
+
+✨ Here you'll find projects I'm working on and amazing collaborations. I hope you get inspired or find something useful! 😊
+
+---
+
+## 🌈 My Interests
+- 📚 Learning something new every day
+- 🌍 Making the world a better place with code
+- 🤝 Collaborating with other developers
+- 😎 Becoming more and more professional
+
+---
+
+> 💡 _"The only limit is your imagination."_  
+> **~ PartyZac**
+
+🌟 Thanks for visiting my profile! 🌟
 
 ## Skills
 
