@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&lines=%C2%A1Hola%2C+soy+PartyZac!+👋😎)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&lines=%C2%A1Hola%2C+soy+CodeFred!+👋😎)](https://git.io/typing-svg)
 
-# 🌟 ¡Hola, soy PartyZac! 🌟
+# 🌟 ¡Hola, soy CodeFred! 🌟
 
 👋 Bienvenido a mi perfil de GitHub. Me apasiona:
 
