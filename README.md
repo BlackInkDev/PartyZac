@@ -8,6 +8,7 @@
 - 🚀 **Tecnología e innovación**
 - 🎨 **Diseño creativo**
 - 🎮 **Desarrollo de videojuegos**
+- 🖱️ **Programador en Darkness Takeover**
 
 ✨ Aquí encontrarás los proyectos en los que estoy trabajando y colaboraciones increíbles. ¡Espero que te inspires o encuentres algo útil! 😊
 
