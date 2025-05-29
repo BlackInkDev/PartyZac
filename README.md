@@ -1,32 +1,32 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&lines=Hey+Im+PartyZac!+👋😎)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&lines=%C2%A1Hola%2C+soy+PartyZac!+👋😎)](https://git.io/typing-svg)
 
-# 🌟 Hi, I'm PartyZac! 🌟
+# 🌟 ¡Hola, soy PartyZac! 🌟
 
-👋 Welcome to my GitHub profile. I am passionate about:
+👋 Bienvenido a mi perfil de GitHub. Me apasiona:
 
-- 💻 **Web Development**
-- 🚀 **Technology and Innovation**
-- 🎨 **Creative Design**
-- 🎮 **Game Development**
+- 💻 **Desarrollo web**
+- 🚀 **Tecnología e innovación**
+- 🎨 **Diseño creativo**
+- 🎮 **Desarrollo de videojuegos**
 
-✨ Here you'll find projects I'm working on and amazing collaborations. I hope you get inspired or find something useful! 😊
-
----
-
-## 🌈 My Interests
-- 📚 Learning something new every day
-- 🌍 Making the world a better place with code
-- 🤝 Collaborating with other developers
-- 😎 Becoming more and more professional
+✨ Aquí encontrarás los proyectos en los que estoy trabajando y colaboraciones increíbles. ¡Espero que te inspires o encuentres algo útil! 😊
 
 ---
 
-> 💡 _"The only limit is your imagination."_  
+## 🌈 Mis intereses
+- 📚 Aprender algo nuevo cada día
+- 🌍 Mejorar el mundo con código
+- 🤝 Colaborar con otros desarrolladores
+- 😎 Ser cada vez más profesional
+
+---
+
+> 💡 _"El único límite es tu imaginación."_  
 > **~ PartyZac**
 
-🌟 Thanks for visiting my profile! 🌟
+🌟 ¡Gracias por visitar mi perfil! 🌟
 
-## Skills
+## Habilidades
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -34,20 +34,8 @@
   </a>
 </p>
 
-
-
-
 <!--
-**PartyZac/PartyZac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PartyZac/PartyZac** es un repositorio ✨ _especial_ ✨ porque su archivo `README.md` (este archivo) aparece en tu perfil de GitHub.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Aquí tienes algunas ideas para empezar:
 -->
