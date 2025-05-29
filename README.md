@@ -38,5 +38,3 @@
 <!--
 **PartyZac/PartyZac** es un repositorio ✨ _especial_ ✨ porque su archivo `README.md` (este archivo) aparece en tu perfil de GitHub.
 
-Aquí tienes algunas ideas para empezar:
--->
