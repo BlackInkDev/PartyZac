@@ -23,7 +23,7 @@
 ---
 
 > 💡 _"El único límite es tu imaginación."_  
-> **~ PartyZac**
+> **~ CodeFred**
 
 🌟 ¡Gracias por visitar mi perfil! 🌟
 
