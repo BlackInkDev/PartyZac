@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&lines=%C2%A1Hola%2C+soy+CodeFred!+👋😎)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&lines=%C2%A1Hola%2C+soy+Code-Fred!+👋😎)](https://git.io/typing-svg)
 
-# 🌟 ¡Hola, soy CodeFred! 🌟
+# 🌟 ¡Hola, soy Code Fred! 🌟
 
 👋 Bienvenido a mi perfil de GitHub. Me apasiona:
 
